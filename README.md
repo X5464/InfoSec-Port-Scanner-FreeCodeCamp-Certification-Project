@@ -84,13 +84,13 @@ Open Ports: [22, 80, 443]
 
 
 🔧 Troubleshooting
-	•	❌ ModuleNotFoundError: No module named 'nmap'
+•	❌ ModuleNotFoundError: No module named 'nmap'
 👉 Activate your virtual environment and run:
 pip install python-nmap
 
 
 
-	•	❌ nmap not found
+•	❌ nmap not found
 👉 Make sure Nmap is installed and added to your system PATH:
 	•	On Windows: check the Environment Variables
 	•	On macOS: which nmap should return a path
