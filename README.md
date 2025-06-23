@@ -30,18 +30,19 @@ InfoSec-Port-Scanner/
 - **macOS:**  
   Install using [Homebrew](https://brew.sh):
   ```bash
-  brew install python
+brew install python
 
-  	•	Windows:
+
+•	Windows:
 Download from python.org
 ✅ Make sure to check “Add Python to PATH” during installation.
 
 ⸻
 
 🌐 Nmap
-	•	macOS:brew install nmap
+•	macOS:brew install nmap
 
- 	•	Windows:
+•	Windows:
 Download & install from: https://nmap.org/download.html
 ✅ Add Nmap to your PATH during installation.
 
